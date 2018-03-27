@@ -1,4 +1,4 @@
-lion
-tiger
-leopard
-turtle
+lion Brown
+tiger Organge
+leopard Yellow
+turtle Green
