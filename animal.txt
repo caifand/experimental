@@ -1,4 +1,6 @@
-lion yellow
-tiger gold
-leopard black
-turtle green
+
+lion Yellow-Brown
+tiger Organge
+leopard Yellow
+turtle Green
+
